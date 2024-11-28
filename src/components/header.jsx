@@ -23,7 +23,7 @@ function Header() {
             >
               <i className="ri-map-pin-2-fill mb-3 "></i>
               <p>
-                <span>current Location</span>Garden West lasbela, karachi
+                <span>current Location</span>Garden West lasbela,. karachi
               </p>
             </div>
           </span>
