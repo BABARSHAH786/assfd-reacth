@@ -1,0 +1,5 @@
+node_modules
+.envgit 
+.DS_Store
+coverage/
+.vscode/
